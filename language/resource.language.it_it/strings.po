@@ -26,7 +26,7 @@ msgstr "Cerca..."
 
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Mostra fanart elementi come sfondo"
+msgstr "Mostra elementi fanart come sfondo"
 
 msgctxt "#31003"
 msgid "Cinema mode"
@@ -38,7 +38,7 @@ msgstr "Cambia modalità"
 
 msgctxt "#31005"
 msgid "Watch as 2D"
-msgstr "Guarda come 2D"
+msgstr "Guarda in 2D"
 
 msgctxt "#31006"
 msgid "Random movies"
@@ -182,7 +182,7 @@ msgstr "Annulla aggiornamento"
 
 msgctxt "#31041"
 msgid "Camera manufacturer"
-msgstr "Produttore fotocamera"
+msgstr "Produttore camera"
 
 msgctxt "#31042"
 msgid "Playlist options"
@@ -190,7 +190,7 @@ msgstr "Opzioni Playlist"
 
 msgctxt "#31043"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "Imposta il tipo e aggiungi regole per creare una playlist intelligente. Queste playlist sono dinamiche e includono tutti gli elementi multimediali dal tuo database che rispettano le regole scelte."
+msgstr "Imposta il tipo e aggiungi regole per creare una smart playlist. Queste playlist sono dinamiche e includono tutti gli elementi multimediali dal tuo database che rispettano le regole scelte."
 
 msgctxt "#31044"
 msgid "Add group"
@@ -218,7 +218,7 @@ msgstr "Premi [B]Su[/B] per riavvolgere o avanzare velocemente"
 
 msgctxt "#31050"
 msgid "Press [B]OK[/B] to stop"
-msgstr "Premi [B]OK[/B] per fermare"
+msgstr "Premi [B]OK[/B] per stop"
 
 msgctxt "#31051"
 msgid "Toggle language"
@@ -246,7 +246,7 @@ msgstr "Vai a Playlist"
 
 msgctxt "#31057"
 msgid "Show login screen on startup"
-msgstr "Mostra schermata login all'avvio"
+msgstr "Mostra schermata di login all'avvio"
 
 msgctxt "#31058"
 msgid "Automatic Login on startup"
@@ -266,7 +266,7 @@ msgstr "Elementi menù principale"
 
 msgctxt "#31062"
 msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "Collegamenti alle sezioni \"File\" di ogni tipo di contenuto. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
+msgstr "Collegamenti alle sezioni \"File\" di ogni tipo di contenuto media. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
 
 msgctxt "#31063"
 msgid "Sections"
@@ -294,11 +294,11 @@ msgstr "Scegli predefiniti"
 
 msgctxt "#31069"
 msgid "Last Updated"
-msgstr "Ultimo agg."
+msgstr "Ultimo aggiornamento"
 
 msgctxt "#31070"
 msgid "Add media sources"
-msgstr "Aggiungi sorgenti"
+msgstr "Aggiungi sorgenti media"
 
 msgctxt "#31071"
 msgid "by"
@@ -314,7 +314,7 @@ msgstr "Titoli"
 
 msgctxt "#31074"
 msgid "Library root"
-msgstr "Root Libreria"
+msgstr "Radice della Libreria"
 
 msgctxt "#31075"
 msgid "Movie sets"
@@ -350,11 +350,11 @@ msgstr "Add-on Testi"
 
 msgctxt "#31083"
 msgid "Lyrics add-on settings"
-msgstr "Impostazioni Add-On Testi"
+msgstr "Impostazioni add-on Testi"
 
 msgctxt "#31084"
 msgid "Visualisation settings"
-msgstr "Impostazioni visualizzazione"
+msgstr "Impostazioni di visualizzazione"
 
 msgctxt "#31085"
 msgid "Channel Group"
@@ -382,11 +382,11 @@ msgstr "Cerca trailer"
 
 msgctxt "#31091"
 msgid "Download subtitles"
-msgstr "Scarica Sottotitoli"
+msgstr "Scarica sottotitoli"
 
 msgctxt "#31092"
 msgid "Video menu"
-msgstr "Menù Video"
+msgstr "Menu Video"
 
 msgctxt "#31093"
 msgid "Show weather info in top bar"
@@ -394,7 +394,7 @@ msgstr "Mostra info Meteo nella barra superiore"
 
 msgctxt "#31094"
 msgid "Show media flags for movies / episodes / music videos"
-msgstr "Mostra etichette media per film / episodi / video musicali"
+msgstr "Mostra icone media per film / episodi / video musicali"
 
 msgctxt "#31095"
 msgid "Use slide animations"
@@ -422,7 +422,7 @@ msgstr "Sposta"
 
 msgctxt "#31101"
 msgid "InfoWall"
-msgstr "Muro Info"
+msgstr "InfoWall"
 
 msgctxt "#31102"
 msgid "Wall"
@@ -430,7 +430,7 @@ msgstr "Muro"
 
 msgctxt "#31103"
 msgid "Enter text here..."
-msgstr "Inserisci testo..."
+msgstr "Inserisci il testo qui..."
 
 msgctxt "#31104"
 msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
@@ -454,7 +454,7 @@ msgstr "Usa sfondo globale personalizzato"
 
 msgctxt "#31109"
 msgid "Choose image path"
-msgstr "Scegli percorso immagine"
+msgstr "Scegli il percorso immagine"
 
 msgctxt "#31110"
 msgid "Enter files section"
@@ -462,7 +462,7 @@ msgstr "Inserisci sezione file"
 
 msgctxt "#31111"
 msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "Vedi le tue immagini personali o scarica uno dei tanti Add-On immagini dalla repository ufficiale."
+msgstr "Vedi le tue immagini personali o scarica uno dei tanti add-on immagini dal repository ufficiale."
 
 msgctxt "#31112"
 msgid "Toggle audio stream"
@@ -474,7 +474,7 @@ msgstr "Cerca nella libreria locale"
 
 msgctxt "#31114"
 msgid "Search YouTube"
-msgstr "Cerca su Youtube"
+msgstr "Cerca su YouTube"
 
 msgctxt "#31115"
 msgid "Search TheMovieDB"
@@ -482,7 +482,7 @@ msgstr "Cerca su TheMovieDB"
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Rimuovi questo elemento menù principale"
+msgstr "Rimuovi questo elemento dal menu principale"
 
 msgctxt "#31117"
 msgid "Edit nodes"
@@ -494,11 +494,11 @@ msgstr "Inserisci browser Add-On"
 
 msgctxt "#31119"
 msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Non hai ancora alcun Add-On installato. Visita il nostro browser Add-On per sfogliare la nostra collezione e migliorare la tua esperienza Kodi."
+msgstr "Non hai ancora alcun add-on installato. Visita il nostro browser add-on per sfogliare la nostra collezione e migliorare la tua esperienza Kodi."
 
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Non hai ancora impostato un provider meteo. Per poter vedere le informazioni meteo, scegli un provider meteo e imposta la tua località."
+msgstr "Non hai ancora impostato un provider meteo. Per vedere le informazioni meteo, scegli un provider meteo e imposta la tua località."
 
 msgctxt "#31121"
 msgid "Set weather provider"
@@ -534,7 +534,7 @@ msgstr "Collaboratori"
 
 msgctxt "#31129"
 msgid "General settings applying to all areas of the skin."
-msgstr "Impostazioni generali che si applicano a tutte le aree della skin."
+msgstr "Impostazioni generali che si applicano a tutte le aree dell'interfaccia."
 
 msgctxt "#31130"
 msgid "Main menu-related settings: Configure the home screen to your likings."
@@ -542,7 +542,7 @@ msgstr "Impostazioni relative al menù principale: Configura la schermata home c
 
 msgctxt "#31131"
 msgid "Choose home fanart pack"
-msgstr "Scegli pacchetto fanart home"
+msgstr "Scegli il pacchetto fanart home"
 
 msgctxt "#31132"
 msgid "min"
@@ -555,3 +555,99 @@ msgstr "Nascondi"
 msgctxt "#31134"
 msgid "Remaining"
 msgstr "Rimanenti"
+
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Clicca qui per vedere le ultime modifiche..."
+
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "Info PVR"
+
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Info Player process"
+
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Video decoder"
+
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Formato pixel"
+
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Modifiche di versione"
+
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Velocità di Play"
+
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "Non hai ancora impostato un PVR. Per usare PVR, scegli un addon client PVR e configuralo. Visita  http://kodi.wiki/view/PVR per maggiori informazioni."
+
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Entra nel browser add-on"
+
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Cerca add-ons"
+
+msgctxt "#31148"
+msgid "Categories"
+msgstr "Categorie"
+
+msgctxt "#31149"
+msgid "Select genre fanart pack"
+msgstr "Seleziona il pacchetto fanart genere"
+
+msgctxt "#31150"
+msgid "Repository"
+msgstr "Repository"
+
+msgctxt "#31151"
+msgid "Unwatched music videos"
+msgstr "Video musicali non visti"
+
+msgctxt "#31152"
+msgid "Random music videos"
+msgstr "Video musicali casuali"
+
+msgctxt "#31153"
+msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgstr "Non hai ancora alcun add-on di questo tipo installato. Accedi all'add-on browser per scaricare add-ons creati dalla nostra community."
+
+msgctxt "#31154"
+msgid "Press OK to switch between locations"
+msgstr "Premi OK per switchare attraverso le località"
+
+msgctxt "#31155"
+msgid "No bookmarks created yet."
+msgstr "Preferiti non ancora creati"
+
+msgctxt "#31156"
+msgid "Choose background pattern"
+msgstr "Scegli il motivo dello sfondo"
+
+msgctxt "#31157"
+msgid "Edit categories"
+msgstr "Modifica le categorie"
+
+msgctxt "#31158"
+msgid "Touch mode"
+msgstr "Modo Touch"
+
+msgctxt "#31159"
+msgid "Artwork"
+msgstr "Artwork"
+
+msgctxt "#31160"
+msgid "Show media flags"
+msgstr "Mostra le icone media"
+
+msgctxt "#31161"
+msgid "Numeric pad"
+msgstr "Tastierino numerico"
