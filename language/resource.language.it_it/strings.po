@@ -506,7 +506,7 @@ msgstr "Imposta provider meteo"
 
 msgctxt "#31122"
 msgid "Unwatched TV Shows"
-msgstr "Programmi televisivi non visti"
+msgstr "Serie TV non viste"
 
 msgctxt "#31123"
 msgid "Same director"
