@@ -506,7 +506,7 @@ msgstr "Imposta provider meteo"
 
 msgctxt "#31122"
 msgid "Unwatched TV Shows"
-msgstr "Serie TV non viste"
+msgstr "Programmi televisivi non visti"
 
 msgctxt "#31123"
 msgid "Same director"
@@ -626,7 +626,7 @@ msgstr "Premi OK per switchare attraverso le località"
 
 msgctxt "#31155"
 msgid "No bookmarks created yet."
-msgstr "Preferiti non ancora creati"
+msgstr "Preferiti non ancora creati."
 
 msgctxt "#31156"
 msgid "Choose background pattern"
