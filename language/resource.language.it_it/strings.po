@@ -218,7 +218,7 @@ msgstr "Premi [B]Su[/B] per riavvolgere o avanzare velocemente"
 
 msgctxt "#31050"
 msgid "Press [B]OK[/B] to stop"
-msgstr "Premi [B]OK[/B] per stop"
+msgstr "Premi [B]OK[/B] per fermare"
 
 msgctxt "#31051"
 msgid "Toggle language"
@@ -386,7 +386,7 @@ msgstr "Scarica sottotitoli"
 
 msgctxt "#31092"
 msgid "Video menu"
-msgstr "Menu Video"
+msgstr "Menù Video"
 
 msgctxt "#31093"
 msgid "Show weather info in top bar"
@@ -482,7 +482,7 @@ msgstr "Cerca su TheMovieDB"
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Rimuovi questo elemento dal menu principale"
+msgstr "Rimuovi questo elemento di menù principale"
 
 msgctxt "#31117"
 msgid "Edit nodes"
